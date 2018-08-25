@@ -37,3 +37,10 @@ Data Source
 - Open Hack Farm - Crops Suggestion
 
   https://api.openhackfarm.tw/testing/crops/suggestions
+
+Contributors
+---
+- yan - Farmer
+- kyli - Bioinformatician
+- Eddie - Developer
+- 小 T - Designer
