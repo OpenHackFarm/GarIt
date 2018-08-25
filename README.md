@@ -1,4 +1,6 @@
-# GarIt !
+# GarIt - Integrated Crop Management
+
+![](https://raw.githubusercontent.com/OpenHackFarm/GarIt/master/assets/2018-08-25-091054_1366x768_scrot.png)
 
 Source Code
 ---
@@ -13,11 +15,6 @@ Source Code
 - WeatherProxy
 
   https://github.com/OpenHackFarm/WeatherProxy
-
-Slide
----
-
-- https://docs.google.com/presentation/d/1zhKHGs0GbgR-MlEaDlv8ZnJ0haykSG3OO2Hd2bvrQew/edit?usp=sharing
 
 Data Source
 ---
@@ -40,3 +37,10 @@ Data Source
 - Open Hack Farm - Crops Suggestion
 
   https://api.openhackfarm.tw/testing/crops/suggestions
+
+Contributors
+---
+- yan - Farmer
+- kyli - Bioinformatician
+- Eddie - Developer
+- 小 T - Designer
