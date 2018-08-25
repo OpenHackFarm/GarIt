@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/OpenHackFarm/GarIt/master/assets/screenshot.png)
 
+![](https://raw.githubusercontent.com/OpenHackFarm/GarIt/master/assets/linebot_screenshot.png)
+
 Source Code
 ---
 - LineBot
