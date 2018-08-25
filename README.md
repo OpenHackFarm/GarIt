@@ -1,4 +1,4 @@
-# GarIt ! - Integrated Crop Management
+# GarIt - Integrated Crop Management
 
 ![](https://raw.githubusercontent.com/OpenHackFarm/GarIt/master/assets/2018-08-25-091054_1366x768_scrot.png)
 
