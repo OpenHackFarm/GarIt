@@ -17,6 +17,8 @@ Source Code
 Slide
 ---
 
+https://docs.google.com/presentation/d/1zhKHGs0GbgR-MlEaDlv8ZnJ0haykSG3OO2Hd2bvrQew/edit?usp=sharing
+
 Data Source
 ---
 - 中央氣象局 - 自動氣象站-氣象觀測資料
